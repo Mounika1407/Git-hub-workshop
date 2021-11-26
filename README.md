@@ -21,5 +21,5 @@
 
 # image
 
-![micky](micky.png)
+![micky](bhanu.jpg)
 
