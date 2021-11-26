@@ -16,7 +16,7 @@
 **data**
 ***data here***
 # link Readme file
-[Google]("www.google.com")
+[Google]("https://www.google.co.in/")
 # image
-! [micky](micky.png)
+![micky](micky.png)
 
