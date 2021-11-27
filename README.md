@@ -52,11 +52,11 @@
  * Surampalem
 
 ## nested list
-1. name
+1. Name
    1. first
    2. last
    3. middle
-2. GITHUB
+2. Github
    1. user name
    2. mail id
    3. password
