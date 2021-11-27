@@ -56,7 +56,7 @@
    1. first
    2. last
    3. middle
-2. mail id
+2. GITHUB
    1. user name
    2. mail id
    3. password
