@@ -60,3 +60,12 @@
    1. user name
    2. mail id
    3. password
+ 
+ ```python
+    def hello()
+      a=10
+      b=20
+      c=30
+      if a%2==0
+    print(a+b+c)
+ ```
