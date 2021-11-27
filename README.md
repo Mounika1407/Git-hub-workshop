@@ -34,9 +34,29 @@
 
 # list
 ## ordered list
-1.Name
-2.Roll no
-3.Branch
-4.College
-5.Institution
-6.Surampalem
+1. Name
+2. Roll no
+3. Branch
+4. College
+5. Institution
+6. Surampalem
+## unordered list
+- Name
+- roll no
+- branch
+ * Name
+ * Roll no
+ * Branch
+ * College
+ * Institution
+ * Surampalem
+
+## nested list
+1. name
+   1. first
+   2. last
+   3. middle
+2. mail id
+   1. user name
+   2. mail id
+   3. password
