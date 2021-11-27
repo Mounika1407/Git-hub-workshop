@@ -23,3 +23,12 @@
 
 ![micky](bhanu.jpg)
 
+# table in readme file
+
+|s.no|Name|branch|Roll number|
+|----|----|------|-----------|
+|1|bhanu|cse|5F9|
+|2|sravanthi|cse|5E5|
+|3|madhuri|cse|5F7|
+|4|siri|cse|5D2|
+
