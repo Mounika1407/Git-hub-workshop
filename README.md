@@ -27,8 +27,8 @@
 
 |s.no|Name|branch|Roll number|
 |----|----|------|-----------|
-|1|bhanu|cse|5F9|
-|2|sravanthi|cse|5E5|
-|3|madhuri|cse|5F7|
-|4|siri|cse|5D2|
+|1|Bhanu|cse|5F9|
+|2|Sravanthi|cse|5E5|
+|3|Madhuri|cse|5F7|
+|4|Siri|cse|5D2|
 
